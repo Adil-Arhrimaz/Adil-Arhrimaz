@@ -11,9 +11,6 @@ I am a passionate GIS Engineer/Developer with extensive experience in front-end 
 ## 🔭 I’m currently working on ...
 I am currently engaged in an exciting project named 'Treevans'. This innovative project focuses on managing trees and assisting in decision-making processes related to their care and maintenance. At the core of 'Treevans' is a commitment to environmental sustainability and effective urban planning. My role involves developing robust GIS solutions and integrating spatial data to create a comprehensive system for tree management. This project not only leverages my GIS expertise but also allows me to contribute positively to environmental conservation efforts.
 
-## 🌱 I’m currently learning ...
-My learning journey is currently centered around two main areas: mastering NgRx and enhancing my skills in creating data pipelines for spatial data. With NgRx, I am diving into state management in Angular applications, which is crucial for building scalable and maintainable front-end architectures. This learning aligns perfectly with my work on Angular-based projects. Concurrently, I am focusing on developing data pipelines for spatial data, which is a vital aspect of GIS development. This involves handling complex geospatial datasets and transforming them into actionable insights.
-
 <hr>
 
 ## 🛠️ Technologies & Tools
@@ -21,6 +18,8 @@ My learning journey is currently centered around two main areas: mastering NgRx 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![NgRx](https://img.shields.io/badge/-NgRx-a829c3?logo=ngrx&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white&style=for-the-badge)
 
 ### Backend Development
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge)
