@@ -47,9 +47,9 @@ I am currently engaged in an innovative project that combines e-commerce and soc
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
 
 ### Distributed Technologies and Communication  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)  
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google&logoColor=white&style=for-the-badge)  
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
 
 
 ### GIS Development
